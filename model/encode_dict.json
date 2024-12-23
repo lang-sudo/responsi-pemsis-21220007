@@ -1,0 +1,167 @@
+{
+    "class": {
+        "poisonous": 1,
+        "edible": 0
+    },
+    "cap-shape": {
+        "convex": 2,
+        "bell": 0,
+        "sunken": 5,
+        "flat": 3,
+        "knobbed": 4,
+        "conical": 1
+    },
+    "cap-surface": {
+        "smooth": 3,
+        "scaly": 2,
+        "fibrous": 0,
+        "grooves": 1
+    },
+    "cap-color": {
+        "brown": 0,
+        "yellow": 9,
+        "white": 8,
+        "gray": 3,
+        "red": 7,
+        "pink": 5,
+        "buff": 1,
+        "purple": 6,
+        "cinnamon": 2,
+        "green": 4
+    },
+    "bruises": {
+        "bruises": 0,
+        "no bruises": 1
+    },
+    "odor": {
+        "pungent": 7,
+        "almond": 0,
+        "anise": 1,
+        "none": 6,
+        "foul": 4,
+        "creosote": 2,
+        "fishy": 3,
+        "spicy": 8,
+        "musty": 5
+    },
+    "gill-attachment": {
+        "free": 1,
+        "attached": 0
+    },
+    "gill-spacing": {
+        "close": 0,
+        "crowded": 1
+    },
+    "gill-size": {
+        "narrow": 1,
+        "broad": 0
+    },
+    "gill-color": {
+        "black": 0,
+        "brown": 1,
+        "gray": 4,
+        "pink": 7,
+        "white": 10,
+        "chocolate": 3,
+        "purple": 8,
+        "red": 9,
+        "buff": 2,
+        "green": 5,
+        "yellow": 11,
+        "orange": 6
+    },
+    "stalk-shape": {
+        "enlarging": 0,
+        "tapering": 1
+    },
+    "stalk-root": {
+        "equal": 2,
+        "club": 1,
+        "bulbous": 0,
+        "rooted": 4,
+        "missing": 3
+    },
+    "stalk-surface-above-ring": {
+        "smooth": 3,
+        "fibrous": 0,
+        "silky": 2,
+        "scaly": 1
+    },
+    "stalk-surface-below-ring": {
+        "smooth": 3,
+        "fibrous": 0,
+        "scaly": 1,
+        "silky": 2
+    },
+    "stalk-color-above-ring": {
+        "white": 7,
+        "gray": 3,
+        "pink": 5,
+        "brown": 0,
+        "buff": 1,
+        "red": 6,
+        "orange": 4,
+        "cinnamon": 2,
+        "yellow": 8
+    },
+    "stalk-color-below-ring": {
+        "white": 7,
+        "pink": 5,
+        "gray": 3,
+        "buff": 1,
+        "brown": 0,
+        "red": 6,
+        "yellow": 8,
+        "orange": 4,
+        "cinnamon": 2
+    },
+    "veil-type": {
+        "partial": 0
+    },
+    "veil-color": {
+        "white": 2,
+        "brown": 0,
+        "orange": 1,
+        "yellow": 3
+    },
+    "ring-number": {
+        "one": 1,
+        "two": 2,
+        "none": 0
+    },
+    "ring-type": {
+        "pendant": 4,
+        "evanescent": 0,
+        "large": 2,
+        "flaring": 1,
+        "none": 3
+    },
+    "spore-print-color": {
+        "black": 0,
+        "brown": 1,
+        "purple": 6,
+        "chocolate": 3,
+        "white": 7,
+        "green": 4,
+        "orange": 5,
+        "yellow": 8,
+        "buff": 2
+    },
+    "population": {
+        "scattered": 3,
+        "numerous": 2,
+        "abundant": 0,
+        "several": 4,
+        "solitary": 5,
+        "clustered": 1
+    },
+    "habitat": {
+        "urban": 4,
+        "grasses": 0,
+        "meadows": 2,
+        "woods": 6,
+        "paths": 3,
+        "waste": 5,
+        "leaves": 1
+    }
+}
